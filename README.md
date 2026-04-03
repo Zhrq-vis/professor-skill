@@ -1,6 +1,6 @@
 <div align="center">
 
-# 赛博教授.skill
+# 教授.skill
 
 > *“教授不必永远在线，但学术风格可以被继承。”*
 
@@ -13,7 +13,7 @@
 
 学生会毕业，课题会结题，导师也不可能 24 小时在线。<br>
 但论文、报告、讲义、演讲、批注、方法论——这些不会。<br>
-**赛博教授.skill** 不是“复活真人”，而是把一位教授的研究知识、学术风格、指导偏好和方法论，蒸馏成一个可交互的科研智能体。<br>
+**教授.skill** 不是“复活真人”，而是把一位教授的研究知识、学术风格、指导偏好和方法论，蒸馏成一个可交互的科研智能体。<br>
 
 它既能基于教授自己的论文和材料给学生做指导，<br>
 也能结合大模型通识能力、外部论文检索结果与当前任务上下文，<br>
@@ -250,12 +250,12 @@ create-cyber-professor/
 
 ## 致敬 & 参考
 
-本项目在结构设计上参考了开源 Agent Skill 生态中常见的 `SKILL.md + prompts + tools` 组织方式，并吸收了多个公开技能仓库的经验，例如 OpenAI 的 `skills` 仓库、Anthropic 的 `skills` 仓库，以及 SkillHub 等项目的目录与说明组织思路。它们展示了技能包通常由说明文件、提示模板和辅助脚本构成。citeturn984477search1turn984477search2turn984477search4turn984477search5
+本项目在结构设计上参考了开源 Agent Skill 生态中常见的 `SKILL.md + prompts + tools` 组织方式，并吸收了多个公开技能仓库的经验，例如 OpenAI 的 `skills` 仓库、Anthropic 的 `skills` 仓库，以及 SkillHub 等项目的目录与说明组织思路。它们展示了技能包通常由说明文件、提示模板和辅助脚本构成。
 
 特别感谢：
-- 前任.skill
-- 同事.skill
-- yourself.skill
+- **[同事.skill](https://github.com/titanwings/colleague-skill)**（by titanwings）— 首创“把人蒸馏成 AI Skill”的双层架构
+- **[前任.skill](https://github.com/therealXiaomanChu/ex-partner-skill)**（by therealXiaomanChu）— 将双层架构迁移到亲密关系场景
+- **[自己.skill](https://github.com/notdog1998/yourself-skill)**（by notdog1998）— 将视角转向“自我蒸馏”，完善了自我记忆与人格模板
 - GPT-5.4
 - Claude Code
 - VS Code
