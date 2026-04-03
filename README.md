@@ -260,3 +260,6 @@ create-cyber-professor/
 - Claude Code
 - VS Code
 
+**欢迎参加数字永生。**
+
+MIT License © [RunqingZhang](https://github.com/Zhrq-vis)
